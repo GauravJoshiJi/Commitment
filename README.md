@@ -10,3 +10,5 @@
 #4>27/sept --> React VS Angular and Agile frameWork
 
 #5>28/sept --> TaskManager app's HTML structure
+
+#6> 29/sept --> J.S imp PDF
